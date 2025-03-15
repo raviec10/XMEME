@@ -11,10 +11,6 @@ image
 
 ## XMeme mock up
 
-image
-
-XMeme Architecture
-
 Built XMeme backend completely from scratch
 Scope of work
 Created a Backend Server using Spring template with the REST API handlers.
@@ -25,5 +21,7 @@ Used MongoDB to store the Meme related fields and extract them.
 Handled incorrect requests and used appropriate HTTP Response codes for error scenarios.
 Tested the functionality and wrote code with clear comments and documentation.
 Wrote modular code following MVCS layering architecture.
-Skills used
+
+## Skills used
+
 Core Java, Backend Server, Jackson, Spring Boot, Spring Data, REST API, MongoDB, Docker and Swagger
